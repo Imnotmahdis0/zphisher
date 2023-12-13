@@ -1,0 +1,17 @@
+#Termux
+apt update
+apt upgrade
+pkg install git
+pkg install python
+pkg install figlet
+apt-get install pip
+pip2 install 
+pip install telegram
+pip install python-telegram-bot
+pip install telegram-bot
+git clone https://github.com/Master-Bruno/FB-INSTA
+cd FB-INSTA
+ls
+git pull
+chmod +x *
+python INSTA-FB7.py
